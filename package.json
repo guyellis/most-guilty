@@ -1,7 +1,7 @@
 {
   "author": "Guy Ellis <wildfiction@gmail.com>",
   "bin": {
-    "most-guilty": "most-guilty.js"
+    "most-guilty": "./bin/most-guilty.js"
   },
   "bugs": {
     "url": "https://github.com/guyellis/most-guilty/issues"
@@ -57,9 +57,8 @@
     "dependency-update": "node_modules/.bin/npm-update-outdated",
     "lint": "eslint --ext .js .",
     "mocha": "node_modules/mocha/bin/_mocha test/**/*.js --recursive --require babel-core/register",
-    "prepublish": "npm run build",
     "start": "TARGET=dev webpack-dev-server --devtool eval-source --progress --colors --hot --inline --history-api-fallback",
     "test": "DEBUG=plant:* npm run coverage"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
