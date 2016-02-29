@@ -16,9 +16,9 @@
   },
   "description": "Report on the guilty in GitHub",
   "devDependencies": {
-    "babel-eslint": "^4.1.3",
-    "eslint": "1.10.3",
-    "eslint-config-guyellis": "*",
+    "babel-eslint": "^5.00",
+    "eslint": "^2.2.0",
+    "eslint-config-guyellis": "^0.0.5",
     "istanbul": "^1.0.0-alpha",
     "npm-update-outdated": "^0.1.6",
     "pre-commit": "^1.1.2",
