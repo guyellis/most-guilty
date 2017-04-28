@@ -1,5 +1,7 @@
 # Most Egregiously Guilty of Outstanding Issues
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/guyellis/most-guilty.svg)](https://greenkeeper.io/)
+
 Who has the most open issues assigned to them?
 
 ## Install
