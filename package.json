@@ -11,18 +11,18 @@
     "babel-core": "^6.4.5",
     "babel-preset-es2015": "^6.1.2",
     "babel-preset-stage-1": "^6.1.2",
-    "console.table": "^0.4.0",
+    "console.table": "^0.8.0",
     "ghissues": "^1.1.2"
   },
   "description": "Report on the guilty in GitHub",
   "devDependencies": {
     "babel-eslint": "^5.00",
-    "eslint": "^2.2.0",
-    "eslint-config-guyellis": "^0.0.5",
+    "eslint": "^3.19.0",
+    "eslint-config-guyellis": "^0.0.6",
     "istanbul": "^1.0.0-alpha",
     "npm-update-outdated": "^0.1.6",
     "pre-commit": "^1.1.2",
-    "mocha": "^2.3.4"
+    "mocha": "^3.3.0"
   },
   "pre-commit": {
     "colors": true,
